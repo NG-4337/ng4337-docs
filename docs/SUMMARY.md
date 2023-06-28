@@ -1,10 +1,8 @@
 # Table of contents
 
-* [EasyTest](README.md)
-
 ## Group 1
 
-* [Page 1](group-1/page-1.md)
+* [Page 1](README.md)
 
 ## Group 2
 
