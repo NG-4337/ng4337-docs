@@ -8,6 +8,8 @@
 
 Get amazing things done with awesome feature one. But remember that awesome feature two and three exist too. In fact, Awesome Product is full of awesome features.
 
+<figure><img src="../.gitbook/assets/0218C852-0635-41ED-A398-90166258C668.png" alt=""><figcaption></figcaption></figure>
+
 ![](https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxhcHB8ZW58MHx8fHwxNjYwNTgzMzQz\&ixlib=rb-1.2.1\&q=80)
 
 ## Awesome Feature Two
