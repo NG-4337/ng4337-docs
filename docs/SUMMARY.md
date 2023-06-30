@@ -1,13 +1,24 @@
 # Table of contents
 
-## Group 1
+* [👋 Welcome to A Product](README.md)
 
-* [Page 1](README.md)
+## Overview
 
-## Group 2
+* [💡 What we do](overview/what-we-do.md)
+* [✨ Our Features](overview/our-features.md)
 
-* [Page 2](group-2/page-2.md)
+## Product Guides
 
-## Group 3
+* [📪 Making a post](product-guides/making-a-post.md)
+* [📎 Understanding Projects](product-guides/understanding-projects.md)
 
-* [Page 3](group-3/page-3.md)
+## Fundamentals
+
+* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
+  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+
+## Use Cases
+
+* [🎨 For Designers](use-cases/for-designers.md)
+* [🖥 For Developers](use-cases/for-developers.md)
