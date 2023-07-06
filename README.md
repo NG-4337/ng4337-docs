@@ -20,28 +20,3 @@ Advantages of 4337NG Wallet compared with the traditional EOA wallet.
 * Scheduled Payments: Configuring transactions to be executed at specific times.
 * Paymaster Configuration: Implementing a paymaster to abstract gas payments and provide flexibility when paying ETH gas fees.
 
-## Quick links
-
-{% content-ref url="technology/architecture.md" %}
-[architecture.md](technology/architecture.md)
-{% endcontent-ref %}
-
-{% content-ref url="technology/social-media-login.md" %}
-[social-media-login.md](technology/social-media-login.md)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="mobile-wallet-guide/getting-set-up/" %}
-[getting-set-up](mobile-wallet-guide/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="mobile-wallet-guide/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](mobile-wallet-guide/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="mobile-wallet-guide/getting-set-up/inviting-members.md" %}
-[inviting-members.md](mobile-wallet-guide/getting-set-up/inviting-members.md)
-{% endcontent-ref %}

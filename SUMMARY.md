@@ -20,11 +20,14 @@
 
 ## Mobile Wallet Guide
 
-* [🛠 Getting set up](mobile-wallet-guide/getting-set-up/README.md)
-  * [📝 Setting permissions](mobile-wallet-guide/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](mobile-wallet-guide/getting-set-up/inviting-members.md)
+* [Getting Started](mobile-wallet-guide/getting-started.md)
+* [Create a New Wallet](mobile-wallet-guide/create-a-new-wallet.md)
+* [Active the Wallet](mobile-wallet-guide/active-the-wallet.md)
+* [Set Guardians](mobile-wallet-guide/set-guardians.md)
+* [Recover a Wallet](mobile-wallet-guide/recover-a-wallet.md)
+* [Send Tokens](mobile-wallet-guide/send-tokens.md)
+* [Bridge Tokens](mobile-wallet-guide/bridge-tokens.md)
 
-## Recover Center Guide
+## 4337NG Recover Center
 
-* [🎨 For Designers](recover-center-guide/for-designers.md)
-* [🖥 For Developers](recover-center-guide/for-developers.md)
+* [Recover for Others](4337ng-recover-center/recover-for-others.md)
