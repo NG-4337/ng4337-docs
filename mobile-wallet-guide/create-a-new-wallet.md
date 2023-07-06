@@ -1,6 +1,6 @@
 # Create a New Wallet
 
-[Next - Recover Center GuideFor Designers](https://app.gitbook.com/o/lXEOkow8LrPEj07ivybO/s/gXuI2iMBk8UuefNBr22U/\~/changes/6/recover-center-guide/for-designers)Open the 4337NG wallet and choose "Create Wallet".\
+[Next - Recover Center GuideFor Designers](https://app.gitbook.com/o/lXEOkow8LrPEj07ivybO/s/gXuI2iMBk8UuefNBr22U/\~/changes/6/recover-center-guide/for-designers)Open the 4337 I NG wallet and choose "Create Wallet".\
 ![](https://lh5.googleusercontent.com/gtfc3cbonAv97wcxsJa7dCSjTukNXVdYdYd92eYxuE1o59lFsJbxu-1Cj\_Kkbyo4mEhnjfgRKk0vSjOKBJ\_IfCFB\_D1QGe5Wo5ytSI-3oM1HzT-rn8RUGTnicfEBoUw61dQ9JMu\_oFN3IVRvM2OILWI)![](https://lh5.googleusercontent.com/9vfn6X2gzWKub8XxIAoFeVFsmc3-iEWsPFRDtbyYomC4DE-NalFDNtuN\_taoah1CsGA3HY4oiLFv6CMiBwQBnF4OxLJMkvEM736IN5x\_N4TV6pGtOG5GC5U95dOvQfH9ad66HBtApp\_2nXi8OAMoMfs)\
 Set your login Email. Then check your email from [service@NG4337.org](mailto:service@NG4337.org) to get the code.
 

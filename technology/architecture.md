@@ -1,6 +1,6 @@
 # Architecture
 
-The 4337NG Wallet has three layers: front-end, back-end, and contract. The front-end layer serves as the user interface, with two main parts: the wallet and account recovery center. The wallet products include both a Chrome extension wallet and a mobile wallet.
+The 4337 I NG Wallet has three layers: front-end, back-end, and contract. The front-end layer serves as the user interface, with two main parts: the wallet and account recovery center. The wallet products include both a Chrome extension wallet and a mobile wallet.
 
 
 

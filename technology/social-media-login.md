@@ -17,6 +17,6 @@ Social media login allows users to log in to their wallets using existing email 
 
 
 
-Additionally, 4337NG wallet also supports ERC20 payment of transaction fees completed through the paymaster contract.
+Additionally, 4337 I NG wallet also supports ERC20 payment of transaction fees completed through the paymaster contract.
 
 \
