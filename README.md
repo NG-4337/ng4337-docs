@@ -1,45 +1,47 @@
-# 👋 Welcome to A Product
+# 👋 Welcome to 4337NG Wallet
+
+
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+4337NG Wallet will be built on ERC4337, which was released on the Ethereum Mainnet recently, bringing account abstraction to the web3 ecosystem, which will lead to the massive adoption of web2 users. 4337NG wallet will initially support the Ethereum mainnet and the Zksync era network, with plans to expand to more EVM-compatible networks in the future.
 {% endhint %}
 
-## Overview
+## Advantages
 
-Here are a couple of example overviews from products with really great docs:
+Advantages of 4337NG Wallet compared with the traditional EOA wallet.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+* Social Recovery: Users can designate a list of accounts authorized to access their funds or assist in wallet recovery. This feature eliminates concerns about key loss and enables multiple accounts to collaborate in retrieving funds in case of emergencies.
+* Multisig Transactions: Transactions requiring approval from multiple users before execution.
+* Batched Transactions: Users can bundle multiple actions into a single transaction, reducing fees and ensuring the sequential and atomic execution of actions.
+* Custom Verification Logic: Smart contract wallets can implement custom methods for verifying user intent, utilizing simpler or quantum-resistant signatures.
+* Atomic Operations: Simultaneous token transfers to different addresses in a single on-chain transaction. Uniswap can be utilized to combine approval and swapping actions, enabling multiple authorizations without security risks.
+* Custom Security Features: Users can set varying permissions for different assets, such as higher thresholds for high-value assets like NFTs, requiring admin key management by a hardware wallet. This enhances security without sacrificing convenience.
+* Offline Authorization: Users can sign offline authorizations for specific transactions, enabling peer-to-peer transactions without the need for third-party contract authorizations.
+* Scheduled Payments: Configuring transactions to be executed at specific times.
+* Paymaster Configuration: Implementing a paymaster to abstract gas payments and provide flexibility when paying ETH gas fees.
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="technology/architecture.md" %}
+[architecture.md](technology/architecture.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="technology/social-media-login.md" %}
+[social-media-login.md](technology/social-media-login.md)
 {% endcontent-ref %}
 
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="mobile-wallet-guide/getting-set-up/" %}
+[getting-set-up](mobile-wallet-guide/getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="mobile-wallet-guide/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](mobile-wallet-guide/getting-set-up/setting-permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="mobile-wallet-guide/getting-set-up/inviting-members.md" %}
+[inviting-members.md](mobile-wallet-guide/getting-set-up/inviting-members.md)
 {% endcontent-ref %}

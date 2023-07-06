@@ -1,24 +1,30 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to 4337NG Wallet](README.md)
 
-## Overview
+## Technology
 
-* [💡 What we do？](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [Architecture](technology/architecture.md)
+* [Social Media Login](technology/social-media-login.md)
+* [Social Recovery](technology/social-recovery.md)
 
-## Product Guides
+## Extension Wallet Guide
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [Getting Started](extension-wallet-guide/getting-started.md)
+* [Create a New Wallet](extension-wallet-guide/create-a-new-wallet.md)
+* [Active the Wallet](extension-wallet-guide/active-the-wallet.md)
+* [Set Guardians](extension-wallet-guide/set-guardians.md)
+* [Recover a Wallet](extension-wallet-guide/recover-a-wallet.md)
+* [Send Tokens](extension-wallet-guide/send-tokens.md)
+* [Bridge tokens](extension-wallet-guide/bridge-tokens.md)
 
-## Fundamentals
+## Mobile Wallet Guide
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 Getting set up](mobile-wallet-guide/getting-set-up/README.md)
+  * [📝 Setting permissions](mobile-wallet-guide/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](mobile-wallet-guide/getting-set-up/inviting-members.md)
 
-## Use Cases
+## Recover Center Guide
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🎨 For Designers](recover-center-guide/for-designers.md)
+* [🖥 For Developers](recover-center-guide/for-developers.md)
