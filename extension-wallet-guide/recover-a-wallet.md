@@ -6,7 +6,7 @@ If you have lost your password, or if you want to restore your existing wallet t
 Click the “Recover Wallet” button first.
 
 \
-![](https://lh5.googleusercontent.com/GzRTNk8MpYwVjNwbIDu\_p4VHOmio8NtUBpZuTu9Ldwn2PUwFfUxVnoBID4L4K1GSlRe2mPoXHnkAC3mpC-x25UghsB25D9cdqU9ZH4kKRKIZG4f\_Lhn\_hHOsgG\_ZAuIf\_brKcl7iOS-CabsF2UZHGLQ)![](https://lh4.googleusercontent.com/lQ5xDxKLiR4MQvs80mnQJ3XA5AVa8VRPsPytlB3XdadRbwKO8bZQoqbWwtB1RbEeTtVsLkFssjU8BRjOQecSuyHb4gHNhjR\_c9Ht1YLjFBUTcbsDmrKWnBv04uqEIzlGuvyEJOoUMcpDnCxdppGsfuQ)
+![](https://lh5.googleusercontent.com/GzRTNk8MpYwVjNwbIDu\_p4VHOmio8NtUBpZuTu9Ldwn2PUwFfUxVnoBID4L4K1GSlRe2mPoXHnkAC3mpC-x25UghsB25D9cdqU9ZH4kKRKIZG4f\_Lhn\_hHOsgG\_ZAuIf\_brKcl7iOS-CabsF2UZHGLQ)![](<../.gitbook/assets/image (7).png>)
 
 Input your registered email address to get a verify code.
 
@@ -22,14 +22,16 @@ Then you will see a list of guardians. You can see the name and address of each 
 
 ![](https://lh5.googleusercontent.com/rPoGsTpF9voIJfnxWf840hDl4by\_7ppyEtaox6g90U6KbBZzotjYScej2Zynf-a4LbbJkVuQxzqABKN-lNfjuIMYqmcTshVv7f3\_jDuicU4kpZICXHk56ZroCDnzatgd2oab448zRnhWtOT9xoXmZLg)
 
-Ask your guardian to open the NG4337 Recovery Center. Click the “Copy Recovery Link to Share” button to copy and send them the link if needed. Ask them to connect their wallet and sign your request. Note that any wallet that they are using will do.&#x20;
+Ask your guardian to open the BlueWave Recovery Center. Click the “Copy Recovery Link to Share” button to copy and send them the link if needed. Ask them to connect their wallet and sign your request. Note that any wallet that they are using will do.&#x20;
+
+
 
 \
 
 
-<figure><img src="https://lh3.googleusercontent.com/uXo-yYlvw47NQ8qM_ToJXp97MhqGUdYL1Z9M7Vwt2fztzLZh76GX8oJuvzC1hUdYEZ8KGg9Ksty0Ab1f9l8_7JmCjD8klij83ZvNBZuqq0GkXfyUrgamycnwHiLPwXxX6SFsPodxdQyrEzBquKR4RGo" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh3.googleusercontent.com/OkuUsUduf_hmIqLgBOdj0dlGo2srnhFNlI1B_OneNfmsEFmWn8ueDcrJ1Ia-erC6EmSip376YD1vFm0cmGVcRf4eRrHkl-ggdWBoDHkjUF7Kv2x4BY1aw_XMmmiTOuqT_0nGikaYdTgGzNqkBXEaCCY" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 After they have signed, the pending label will be changed to signed with a timestamp.
 

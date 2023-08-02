@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to 4337 | NG Wallet](README.md)
+* [👋 Welcome to BlueWave Wallet](README.md)
 
 ## Technology
 
@@ -28,6 +28,6 @@
 * [Send Tokens](mobile-wallet-guide/send-tokens.md)
 * [Bridge Tokens](mobile-wallet-guide/bridge-tokens.md)
 
-## 4337 I NG Recover Center
+## BlueWave Recover Center
 
-* [Recover for Others](4337-i-ng-recover-center/recover-for-others.md)
+* [Recover for Others](bluewave-recover-center/recover-for-others.md)

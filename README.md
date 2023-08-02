@@ -1,14 +1,14 @@
-# 👋 Welcome to 4337 | NG Wallet
+# 👋 Welcome to BlueWave Wallet
 
 
 
 {% hint style="info" %}
-4337 I NG Wallet will be built on ERC4337, which was released on the Ethereum Mainnet recently, bringing account abstraction to the web3 ecosystem, which will lead to the massive adoption of web2 users. 4337 I NG wallet will initially support the Ethereum mainnet and the Zksync era network, with plans to expand to more EVM-compatible networks in the future.
+BlueWave Wallet will be built on ERC4337, which was released on the Ethereum Mainnet recently, bringing account abstraction to the web3 ecosystem, which will lead to the massive adoption of web2 users. BlueWave wallet will initially support the Ethereum mainnet and the Zksync era network, with plans to expand to more EVM-compatible networks in the future.
 {% endhint %}
 
 ## Advantages
 
-Advantages of 4337 I NG Wallet compared with the traditional EOA wallet.
+Advantages of BlueWave Wallet compared with the traditional EOA wallet.
 
 * Social Recovery: Users can designate a list of accounts authorized to access their funds or assist in wallet recovery. This feature eliminates concerns about key loss and enables multiple accounts to collaborate in retrieving funds in case of emergencies.
 * Multisig Transactions: Transactions requiring approval from multiple users before execution.

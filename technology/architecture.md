@@ -1,6 +1,6 @@
 # Architecture
 
-The 4337 I NG Wallet has three layers: front-end, back-end, and contract. The front-end layer serves as the user interface, with two main parts: the wallet and account recovery center. The wallet products include both a Chrome extension wallet and a mobile wallet.
+The BlueWave Wallet has three layers: front-end, back-end, and contract. The front-end layer serves as the user interface, with two main parts: the wallet and account recovery center. The wallet products include both a Chrome extension wallet and a mobile wallet.
 
 
 
@@ -12,8 +12,4 @@ The bundler verifies and packages user operations and sends them to the contract
 \
 
 
-<div align="left">
-
-<figure><img src="https://lh3.googleusercontent.com/ETjmr4CyozoWGCnoW2JFHCvXlVJKCgrDcVEs1-qCPBisBgrAOlCaszsRJhFv_2fAsQmkxSKp43EfeJOBsGcv5zHws28ynSuI5V7I9IWbsbLSzDIbMlaU56JyYCfDr5sfPWxZo3j-bZ09x-8ql4EOcD4" alt="Architecture of 4337NG Wallet"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
