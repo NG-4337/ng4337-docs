@@ -14,7 +14,7 @@ Click “Add Guardians” to start adding a new one.
 Input your guardian’s name and EVM address. You can repeat the steps and add more guardians.
 
 \
-![](<../.gitbook/assets/image (2) (1).png>)![](https://lh3.googleusercontent.com/7v9d6k54MdfcXqpIDHQVoI1Pkv2GSE1\_H8m-JnDxvuNoHp5jIVfcdTsNCe\_Sg1LSk3xNumclGH3kQ\_9NGfj8Nubsw4wuB53mSqRtQUSRzCUjOfPRIbBfqtS\_psNutmUUWUzYUNxyLxKN7R-pEwB7KAo)
+![](<../.gitbook/assets/image (2) (1) (1).png>)![](https://lh3.googleusercontent.com/7v9d6k54MdfcXqpIDHQVoI1Pkv2GSE1\_H8m-JnDxvuNoHp5jIVfcdTsNCe\_Sg1LSk3xNumclGH3kQ\_9NGfj8Nubsw4wuB53mSqRtQUSRzCUjOfPRIbBfqtS\_psNutmUUWUzYUNxyLxKN7R-pEwB7KAo)
 
 We recommend choosing Guardians you trust and do not know each other. It is always better to be safe than sorry, so take the time to set guardians for your wallets today.&#x20;
 
