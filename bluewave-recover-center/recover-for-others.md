@@ -1,6 +1,6 @@
 # Recover for Others
 
-&#x20;If you are a guardian of another wallet, you can sign to recover that wallet when he/she sends a recovery request. Simply go to the Recover Center at https://recover.BlueWaveWallet.org.\
+&#x20;If you are a guardian of another wallet, you can sign to recover that wallet when he/she sends a recovery request. Simply go to the Recover Center at [https://recover.bluewave.finance/](https://recover.bluewave.finance/).\
 
 
 You can use any of  your wallet that support Ethereum network.\

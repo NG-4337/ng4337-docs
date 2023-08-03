@@ -4,9 +4,9 @@ Open the extension wallet and choose "Create Wallet".
 
 ![](https://lh6.googleusercontent.com/df3ux-ljJDviUIBN37R7E4CyZw6q7mpZhhEQly3UiUuabcF7l\_-z2sKXZ0xKtE6BrG70iQdtoTPg-ucCAAqlVQLU8jy\_bLxr6OcIz46SRLo1-iMxBQv3FsKmUN9KKWymHAjaduNfcZxL2e6EDTnEdS8)![](https://lh4.googleusercontent.com/XgVlACPzi34TDSOE1hL7aaG3lmN\_eY1\_s1iGNQn7lVithG3I-oxcZklNHp38j-fGc7XU5O0\_cRQBFS6iy6vrVo9v5\_72S2nAX\_aOZkn168Jujyotg47hpZsVSsoCQXZmxSRIqQ4eqTn6xtKDt1dH9hA)
 
-Set your login Email. Then check your email from service@BluewaveWallet.org to get the code.
+Set your login Email. Then check your email from [service@bluewave.finance](mailto://service@bluewave.finance) to get the code.
 
-&#x20;If you do not see the email in a few minutes, check your “junk mail” folder or “spam” folder, or try submitting the request again. If you still don’t receive an email, then write to contact@BluewaveWallet.org explaining the problem. We will do our best to answer your request as soon as possible.
+&#x20;If you do not see the email in a few minutes, check your “junk mail” folder or “spam” folder, or try submitting the request again. If you still don’t receive an email, then write to [contact@bluewave.finance](mailto://contact@bluewave.finance) explaining the problem. We will do our best to answer your request as soon as possible.
 
 Input your verification code to continue.&#x20;
 
